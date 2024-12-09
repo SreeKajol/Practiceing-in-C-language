@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624097048 source:g:\ccode\getintpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+

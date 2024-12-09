@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639806526 source:g:\ccode\multifile\multiply2.c
+	<stdio.h>
+
+1639806703 source:g:\ccode\multifile\main.c
+	<stdio.h>
+	<stdlib.h>
+

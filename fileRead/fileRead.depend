@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639812578 source:g:\ccode\fileread\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669381323 source:c:\ccode\fileread\main.c
+	<stdio.h>
+	<stdlib.h>
+

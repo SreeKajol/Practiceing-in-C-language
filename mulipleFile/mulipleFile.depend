@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1639816060 source:g:\ccode\muliplefile\func.c
+	<stdio.h>
+	<stdlib.h>
+
+1639816062 source:c:\ccode\muliplefile\func.c
+	<stdio.h>
+	<stdlib.h>
+
+1639816822 source:c:\ccode\muliplefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1639816296 c:\ccode\muliplefile\func.h
+

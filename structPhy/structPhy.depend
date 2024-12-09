@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669625049 source:c:\ccode\structphy\main.c
+	<stdio.h>
+	<stdlib.h>
+

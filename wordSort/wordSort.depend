@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668417763 source:g:\ccode\wordsort\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

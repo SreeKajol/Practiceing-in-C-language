@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668577570 source:g:\ccode\quicksort\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

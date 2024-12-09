@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669276530 source:c:\ccode\multifile2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1669276383 source:c:\ccode\multifile2022\func.c
+	<stdio.h>
+
+1669276613 c:\ccode\multifile2022\func.h
+

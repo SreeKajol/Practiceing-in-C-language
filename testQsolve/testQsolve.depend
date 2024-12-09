@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663487374 source:g:\ccode\testqsolve\main.c
+	<stdio.h>
+	<stdlib.h>
+
